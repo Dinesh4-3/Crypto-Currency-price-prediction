@@ -47,8 +47,8 @@ This repository contains code for predicting the prices of various cryptocurrenc
 
 ## Contributors
 
-- [Your Name]
-- [Your Email]
+- Dinesh Kumar
+- skdineshkumar1764@gmail.com
 
 ## License
 
